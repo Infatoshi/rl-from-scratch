@@ -47,7 +47,7 @@ Put simply, epsilon decay is a way to balance exploration and exploitation. Expl
 ## Conclusion (1 mins)
 For those wondering, yes, I do 1-on-1 tutoring and consulting. If you're interested, feel free to shoot me a DM on Fiverr, Twitter, LinkedIn, or Discord. All links will be in the video description and bottom of the README.md in the repo.
 
-If you found this video/repo helpful, you should definitely subscribe. It not only supports me, but also tells the Youtube algorithm that this content is helpful and therefore recommends it to more people. If you have any questions, please leave a comment. If you want to see more content like this, please let me know. I'm always looking for new ideas. Thanks for watching and I'll see you in the next video.
+If you found this video/repo helpful, you should definitely subscribe. It not only supports me, but also tells the Youtube algorithm that this content is helpful and therefore recommends it to more people. If you want to see more content like this, please let me know. I'm always looking for new ideas. Thanks for watching and I'll see you in the next video.
 
 ## Links
 *Fiverr* - https://www.fiverr.com/elliotarledge
