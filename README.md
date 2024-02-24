@@ -51,7 +51,11 @@ If you found this video/repo helpful, you should definitely subscribe. It not on
 
 ## Links
 *Fiverr* - https://www.fiverr.com/elliotarledge
+
 *Twitter* - https://twitter.com/elliotarledge
+
 *LinkedIn* - https://www.linkedin.com/in/elliot-arledge-a392b7243/
+
 *Discord* - https://discord.gg/K7Jd4rFNcW
+
 *Youtube* - https://www.youtube.com/channel/UCjlt_l6MIdxi4KoxuMjhYxg
