@@ -1,5 +1,11 @@
 # rl-from-scratch
 
+
+## Introduction (1 min)
+Hey everyone, welcome back. My name is Elliot and in this video, we will be learning about reinforcement learning from scratch. I assume you have heard of the term RL and have a general understanding enough to get you through this video. 
+My logic for creating this is the limited content on the internet that explains RL from scratch in a shorter time frame. I will be uploading another video soon where we comprehensively build up the codebase from nothing. It may already be up by the time you are watching this.
+This video is particularly designed for intermediate and beginner level programmers. If you are an expert, you might find this video a bit slow. If you are a beginner, you might find this video a bit fast. I will try to balance the two. We will we using python. Lets get started.
+
 ## Before getting into the fun stuff, heres a description about each file purpose (0.5 mins)
 - `real-time-graph.py` is a demo for graphing a function in real time. This is useful for graphing live rewards (better visualization as opposed to reading numbers sequentially).
 - `demo.py` lets you feel the simple mechanics of the RL environment we will use. It is a simple grid world where the agent can move up, down, left, right. The agent is rewarded for reaching the goal and penalized for hitting the wall. You will controller this with the arrow keys.
