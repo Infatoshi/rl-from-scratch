@@ -1,5 +1,12 @@
 # rl-from-scratch
 
+## Setup
+`git clone https://github.com/Infatoshi/rl-from-scratch`
+`cd rl-from-scratch`
+`python -m venv venv`
+`source venv/bin/activate`
+`pip install -r requirements.txt`
+Enjoy!
 
 ## Introduction (1 min)
 Hey everyone, welcome back. My name is Elliot and in this video, we will be learning about reinforcement learning from scratch. I assume you have heard of the term RL and have a general understanding enough to get you through this video. 
