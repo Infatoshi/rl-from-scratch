@@ -1,5 +1,4 @@
 import matplotlib
-matplotlib.use('TKAgg')  # Use an interactive backend. Do this first!
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 import numpy as np
