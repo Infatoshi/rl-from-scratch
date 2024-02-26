@@ -2,10 +2,15 @@
 
 ## Setup
 `git clone https://github.com/Infatoshi/rl-from-scratch`
+
 `cd rl-from-scratch`
+
 `python -m venv venv`
+
 `source venv/bin/activate`
+
 `pip install -r requirements.txt`
+
 Enjoy!
 
 ## Introduction (1 min)
