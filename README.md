@@ -40,7 +40,7 @@ Cons:
 
 ## Our Environment (1 min)
 
-We will use a simple grid world environment. The agent can move up, down, left, right. The agent is rewarded for reaching the goal and penalized for hitting the wall. The environment is a 5x5 grid. The agent (agent and player can be used interchangeably) and goal are initialized at random positions in the grid. The agent is penalized each time step (each time it makes a decision) rewarded for hitting the goal. I include a slightly more complex reward system for its decisions. Its rewarded as a function of delta distance from the goal. The closer the agent moves to the goal, the higher the reward. The further the agent moves from the goal, the lower the reward. This is a simple environment to understand the mechanics of RL. We will use this environment to understand the mechanics of RL and build a simple Q-learning agent.
+We will use a simple grid world environment. The agent can move up, down, left, right. The environment is a 5x5 grid. The agent (agent and player can be used interchangeably) and goal are initialized at random positions in the grid. The agent is penalized each time step (each time it makes a decision) rewarded for hitting the goal. I include a slightly more complex reward system for its decisions. Its rewarded as a function of delta distance from the goal. The closer the agent moves to the goal, the higher the reward. The further the agent moves from the goal, the lower the reward. This is a simple environment to understand the mechanics of RL. We will use this environment to understand the mechanics of RL and build a simple Q-learning agent.
 
 ## Q? (3 mins)
 
